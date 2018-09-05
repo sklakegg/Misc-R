@@ -1,1 +1,1 @@
-# R-Misc
+# Miscellaneous .R scripts
